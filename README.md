@@ -60,19 +60,22 @@ Tailwind CSS
 ## output images
 
 **Home**
+<img width="1909" height="800" alt="Screenshot 2025-09-06 180906" src="https://github.com/user-attachments/assets/72b2d856-bbe3-46b9-9de6-bc42548e90bc" />
 
-
-
-![Uploading Screenshot 2025-09-06 180906.png…]()
 
 **Dashboard**
-![Uploading Screenshot 2025-09-06 181101.png…]()
+<img width="1912" height="817" alt="Screenshot 2025-09-06 181101" src="https://github.com/user-attachments/assets/0dceb24a-8af0-4290-bcdd-06aa0afb1ba8" />
+
 
 **Analysis**
+<img width="1905" height="813" alt="Screenshot 2025-09-06 181144" src="https://github.com/user-attachments/assets/81195e9e-8183-4a3f-90ae-6a3478d9fa32" />
 
-![Uploading image.png…]()
 
 **database (superbase)**
+![WhatsApp Image 2025-09-06 at 17 59 26_37b1d4cd](https://github.com/user-attachments/assets/bc14225e-034d-4f10-a437-354874826712)
+
+
+
 
 
 
